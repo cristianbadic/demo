@@ -21,7 +21,7 @@ public class HelloApplication extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("hello-view.fxml"));
         stage.setScene(new Scene(root, 320, 240));
 
-
+        //der graff
         //we create a root node to arrange all the other nodes
         //Group root = new Group();
         //add the root node to the scene
